@@ -39,6 +39,6 @@
         <li>Abra o aplicativo <strong>Controle de Transmissão Ao Vivo (viewsYTIEQLive)</strong>.</li>
         <li>Insira o link da transmissão ao vivo do YouTube no campo fornecido.</li>
         <li>Clique em <strong>"Iniciar Coleta de Dados"</strong> para começar a monitorar a transmissão.</li>
-        <li>Para finalizar a coleta de dados e fechar o aplicativo, clique em </strong>."Parar Coleta de Dados</strong>. (Os dados serão enviados automaticamente para o Google Sheets durante a coleta, garantindo que você não perca informações mesmo em caso de interrupções inesperadas).</li>
+        <li>Para finalizar a coleta de dados e fechar o aplicativo, clique em </strong>."Parar Coleta de Dados"</strong>. (Os dados serão enviados automaticamente para o Google Sheets durante a coleta, garantindo que você não perca informações mesmo em caso de interrupções inesperadas).</li>
     </ol>
 </div>
