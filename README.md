@@ -23,8 +23,8 @@
 <div style="margin-top: 20px;">
     <h2 align="center" style="color: #0366d6;">Instalação 🔧</h2>
     <ol>
-        <li>Baixe o arquivo <code>.exe</code> da aplicação.</li>
-        <li>Localize o arquivo baixado e execute-o com um duplo clique.</li>
+        <li>Clone este repositório: <code>git clone https://github.com/charleschico/viewYT-LIVE.git</code></li>
+        <li>Localize o arquivo <code>.exe</code> baixado e execute-o com um duplo clique.</li>
     </ol>
 </div>
 
