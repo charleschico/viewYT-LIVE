@@ -1,10 +1,5 @@
 <h1 align="center" style="color: #0366d6;">Controle de Transmissão Ao Vivo 📡</h1>
 
-<div style="background-color: #f6f8fa; padding: 10px; border-radius: 10px; border: 1px solid #d1d5da;">
-    <h2 align="center" style="color: #0366d6;">Descrição 🎥</h2>
-    <p style="color: #0366d6;">Esta aplicação permite <strong>monitorar em tempo real</strong> o número de espectadores de uma transmissão ao vivo no YouTube. Ela coleta dados periodicamente e os envia para uma planilha do Google Sheets para análise e armazenamento.</p>
-</div>
-
 <div style="margin-top: 20px;">
     <h2 align="center" style="color: #0366d6;">Características 🚀</h2>
     <ul>
