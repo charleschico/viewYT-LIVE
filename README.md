@@ -29,5 +29,3 @@ Para usar o aplicativo, siga estes passos:
 3. Clique em **"Iniciar Coleta de Dados"** para começar a monitorar a transmissão.
 4. Para finalizar a coleta de dados e fechar o aplicativo, clique em **"Parar Coleta de Dados"**. (Os dados serão enviados automaticamente para o Google Sheets durante a coleta, garantindo que você não perca informações mesmo em caso de interrupções inesperadas).
 
-## Perguntas
-Se você tiver alguma dúvida, pode abrir uma issue ou entrar em contato.
